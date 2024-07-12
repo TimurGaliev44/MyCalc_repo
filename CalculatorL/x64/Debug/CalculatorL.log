@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+C:\Users\Admin\source\repos\CalculatorL\CalculatorL\MyForm.h(332,96): error C2039: "butt_percent_Paint": не является членом "CalculatorL::MyForm".
+C:\Users\Admin\source\repos\CalculatorL\CalculatorL\MyForm.h(20,19): message : см. объявление "CalculatorL::MyForm"
+C:\Users\Admin\source\repos\CalculatorL\CalculatorL\MyForm.h(332,96): error C2065: butt_percent_Paint: необъявленный идентификатор
+C:\Users\Admin\source\repos\CalculatorL\CalculatorL\MyForm.h(332,80): error C3924: ошибка в аргументе #2 вызова конструктора делегата "System::Windows::Forms::PaintEventHandler":
+C:\Users\Admin\source\repos\CalculatorL\CalculatorL\MyForm.h(332,80): message : требуется указатель на функцию-член
